@@ -1,0 +1,93 @@
+{
+ "note": "Credits for the photographs in this folder: photos.mjs credits prints the footer block for the ones the pages use.",
+ "photos": [
+  {
+   "file": "photo-f44638374.jpg",
+   "files": [
+    "photo-f44638374-500.jpg",
+    "photo-f44638374-960.jpg",
+    "photo-f44638374.jpg"
+   ],
+   "id": "f44638374",
+   "alt": "BARRA MANSA - Fábio Guimas",
+   "by": "Fábio Guimas",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:BARRA_MANSA_-_F%C3%A1bio_Guimas.JPG",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f17056722-960.jpg",
+   "files": [
+    "photo-f17056722-500.jpg",
+    "photo-f17056722-960.jpg"
+   ],
+   "id": "f17056722",
+   "alt": "Cidade de Barra Mansa",
+   "by": "User: HenriqueBarraMansa",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Cidade_de_Barra_Mansa.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-d183.jpg",
+   "files": [
+    "photo-d183-500.jpg",
+    "photo-d183-960.jpg",
+    "photo-d183.jpg"
+   ],
+   "id": "d183",
+   "alt": "Open blank notebook with a ribbon marker and a pencil lying across the pages on a dark wooden table",
+   "by": "Jan Kahánek",
+   "licence": "CC0",
+   "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "page": "https://commons.wikimedia.org/wiki/File:Tabel_day_1_(Unsplash).jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-c877.jpg",
+   "files": [
+    "photo-c877-500.jpg",
+    "photo-c877-960.jpg",
+    "photo-c877.jpg"
+   ],
+   "id": "c877",
+   "alt": "Close-up of soft-focus stacked books showing page edges and covers with no readable spines",
+   "by": "Nenad Stojkovic",
+   "licence": "CC BY 2.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://commons.wikimedia.org/wiki/File:Close-up_of_stacked_books._(51539890528).jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f80494758.jpg",
+   "files": [
+    "photo-f80494758-500.jpg",
+    "photo-f80494758-960.jpg",
+    "photo-f80494758.jpg"
+   ],
+   "id": "f80494758",
+   "alt": "Centro de Barra Mansa - Foto- Bravo",
+   "by": "Bravo.brv",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Centro_de_Barra_Mansa_-_Foto-_Bravo.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f17161350-960.jpg",
+   "files": [
+    "photo-f17161350-500.jpg",
+    "photo-f17161350-960.jpg"
+   ],
+   "id": "f17161350",
+   "alt": "Rio Paraíba em Barra Mansa",
+   "by": "HenriqueBarraMansa",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Rio_Para%C3%ADba_em_Barra_Mansa.jpg",
+   "source": "Wikimedia Commons"
+  }
+ ]
+}
